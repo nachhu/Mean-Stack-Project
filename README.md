@@ -1,4 +1,4 @@
 # Mean-Stack-Project
 
 1)Display Information of all Students
-2)Link to fetch information of individual student record.
+2)Fetch information of individual student on click of particular record.
